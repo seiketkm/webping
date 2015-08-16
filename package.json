@@ -1,0 +1,13 @@
+{
+  "name": "webping",
+  "version": "0.0.1",
+  "description": "Web Ping Graphs",
+  "main": "server.js",
+  "repository": "",
+  "author": "seike takumi <takoforest@gmail.com>",
+  "dependencies": {
+    "express": "~3.2.4",
+    "socket.io": "~1.3.6",
+    "lodash": "~3.10.1"
+  }
+}
